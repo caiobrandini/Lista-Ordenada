@@ -1,6 +1,6 @@
 
-#ifndef TAD_H
-#define TAD_H
+#ifndef LISTA_ORDENADA_H
+#define LISTA_ORDENADA_H
 
 typedef char item;
 
